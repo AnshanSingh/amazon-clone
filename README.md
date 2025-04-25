@@ -1,2 +1,3 @@
 # amazon-clone
-amazon project
+This is my first repository
+Author - Ansh Singh
